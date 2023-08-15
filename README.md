@@ -1,4 +1,4 @@
-# Charlotte-Story
+# Charlotte Story
 
 ### 构思了许久的长篇故事碎片
 
